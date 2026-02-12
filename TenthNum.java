@@ -1,5 +1,5 @@
 import java.util.*;
-public class tenthnum {
+public class TenthNum {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String num=sc.nextLine();
@@ -7,3 +7,4 @@ public class tenthnum {
         System.out.println(num.charAt(length-2));
     }
 }
+
